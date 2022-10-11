@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1664800636 source:c:\users\maintenance\desktop\c_languge\large_file\calculator.c
+	<stdio.h>
+	"Calculator.h"
+
+1664799956 c:\users\maintenance\desktop\c_languge\large_file\calculator.h
+
+1664798525 source:c:\users\maintenance\desktop\c_languge\large_file\main.c
+	"Calculator.h"
+
